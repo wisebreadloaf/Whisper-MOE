@@ -67,9 +67,11 @@ A generalist model that is designed to perform various cross-attention tasks sim
 
   - Datasets: List of datasets used for training.
     
-    i) Kathbath(https://huggingface.co/datasets/ai4bharat/kathbath)
+    i) [Kathbath](https://huggingface.co/datasets/ai4bharat/kathbath)
     </br>
-    ii) Include(https://huggingface.co/datasets/ai4bharat/INCLUDE)
+    ii) [Include](https://huggingface.co/datasets/ai4bharat/INCLUDE)
+    </br>
+    iii) [Wiki-translate](https://huggingface.co/datasets/ai4bharat/wiki-translate)
 
   - Data preprocessing: Steps and tools used for preprocessing.
     i) Datasets python module
